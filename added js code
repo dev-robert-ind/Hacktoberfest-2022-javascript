@@ -1,0 +1,21 @@
+About javaScript:
+
+JavaScript is the world's most popular programming language.
+
+JavaScript is the programming language of the Web.
+
+JavaScript Syntax:
+
+// How to create variables:
+
+var x;
+
+let y;
+
+// How to use variables:
+
+x = 5;
+
+y = 6;
+
+let z = x + y;
